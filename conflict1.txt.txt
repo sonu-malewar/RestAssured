@@ -1,2 +1,3 @@
 User1 is added
 user2 is also added
+added new line here
